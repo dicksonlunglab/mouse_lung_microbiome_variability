@@ -1,9 +1,6 @@
 # mouse_lung_microbiome_variability
 
-Data files used for analysis in "The lung microbiota of healthy mice are highly variable, cluster by environment, and reflect variation in baseline lung innate immunity" by Dickson et al (submitted).
-
-	Sequences are available via the NCBI Sequence Read Archive (accession number PRJNA388464).
-	Questions: Robert Dickson at rodickso@med.umich.edu
+Data files used for analysis in "The lung microbiota of healthy mice are highly variable, cluster by environment, and reflect variation in baseline lung innate immunity" by Dickson et al (submitted).	Sequences are available via the NCBI Sequence Read Archive (accession number PRJNA388464). Questions: Robert Dickson at rodickso@med.umich.edu
 
 Directory: /mouse_lung_microbiome_heterogeneity
 
